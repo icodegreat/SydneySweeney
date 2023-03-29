@@ -1,0 +1,45 @@
+.SydneySweeney {
+    position: relative;
+    left: 20px;
+    top: 30px;
+    display: inline-block;
+}
+
+body {
+    /*background-color: #F4C2C2;*/
+    background-image: url('data:image/jpeg;base64,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');
+}
+
+.name {
+    display: inline-block;
+    position: relative;
+    left: 90px;
+    bottom: 160px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 55px;
+    white-space: nowrap;
+}
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 23px;
+    position: relative;
+    right: 350px;
+    top: 50px;
+    display: inline;
+}
+
+.insta {
+    width: 70px;
+    position: relative;
+    top: 290px;
+    right: 700px;
+    display: inline-block;
+}
+
+.twitter {
+    width: 55px;
+    position: relative;
+    top: 290px;
+    right: 690px;
+}
